@@ -1,0 +1,85 @@
+@font-face {
+    font-family: 'Adaptirebuli';
+    src: url(Fonts/Adaptirebuli_1.ttf);
+}
+
+@font-face {
+    font-family: Gadzen;
+    src: url(Fonts/GAdzen-Regular.otf);
+}
+
+@font-face {
+    font-family: Noto;
+    src: url(Fonts/NotoSansGeorgian-VariableFont_wdth\,wght.ttf);
+}
+
+
+
+@font-face {
+    font-family: Tanamedrovea;
+    src: url(Fonts/tanamedrovea.ttf);
+}
+
+.logo {
+    color: white;
+    font-family: Tanamedrovea;
+    font-size: 65px;
+}
+
+
+
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+
+
+
+hr {
+    border-style: none;
+    height: 2px;
+    background-color: rgb(255, 255, 255)
+}
+
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+td,
+li,
+label {
+
+
+    color: rgb(255, 255, 255);
+    font-family: Noto, sans-serif;
+
+
+}
+
+
+input[type="text"],
+textarea,
+input[type="email"],
+input[type="password"] {
+
+    background-color: #525252;
+
+}
+
+img {
+    border-radius: 13px;
+}
+
+p11 {
+    color: white;
+    font-family: Noto;
+    font-size: 10px;
+}
+
+.rounded {
+    border-radius: 50px;
+}
